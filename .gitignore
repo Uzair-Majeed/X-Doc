@@ -1,0 +1,12 @@
+backend/.venv/
+backend/data/*.db
+backend/.env
+.env
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+models/*.keras
+__pycache__/
+*.py[cod]
+sample_images/
+design/

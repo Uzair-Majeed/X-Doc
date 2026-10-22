@@ -1,0 +1,6 @@
+Model,Accuracy,ROC-AUC,Macro F1
+VGG16_fine_tuned,0.9691,0.9939,0.9608
+VGG16_frozen,0.9623,0.9888,0.9521
+ResNet50_fine_tuned,0.9605,0.9947,0.9502
+ResNet50_frozen,0.9571,0.9899,0.9463
+Custom_CNN,0.9537,0.9893,0.9420

@@ -1,0 +1,10 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+python-multipart>=0.0.9
+pillow>=10.4,<12
+numpy>=1.26,<2.0
+pydantic>=2.8,<3
+python-dotenv>=1.0,<2
+# Install a TensorFlow build supported by your Python version to enable inference.
+# TensorFlow 2.16+ supports Python 3.12; use Python 3.11 if installing TF 2.15.
+tensorflow>=2.16,<2.20
